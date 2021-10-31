@@ -17,6 +17,7 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - high quality builder peers to share Substrate ecosystem wisdom 
 - mutual deep relationship between projects
 - fostering relationship by longer stay 4-12 weeks
+- focused on one's wellbeing.
 
 ### Tentative location
 - Lisbon, Portugal
@@ -27,5 +28,8 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 ### Reference 
 - [https://1729.com/network-union/]()
 - [https://matthewjg.com/network-unions/]()
+- [https://www.wheresniko.com/exploring-the-network-union/]()
+- [https://abhisekbasu.com/2021/05/16/the-network-union/]()
+- [https://kevinklammer.com/html/review-network-union-1729.html]()
 - [https://wiki.hackerspaces.org/Hackbase]()
 - [https://twitter.com/creatorcabins]()

@@ -39,5 +39,6 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - [https://www.wheresniko.com/exploring-the-network-union/]()
 - [https://abhisekbasu.com/2021/05/16/the-network-union/]()
 - [https://kevinklammer.com/html/review-network-union-1729.html]()
+- [https://www.adssx.com/p/a-brief-history-of-cloud-countries]()
 - [https://wiki.hackerspaces.org/Hackbase]()
 - [https://twitter.com/creatorcabins]()

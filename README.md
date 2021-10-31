@@ -1,10 +1,10 @@
 # subhouse
-Nurturing Substrate influential founders at one place funded from Polkadot/Kusama Treasury
+Nurturing [Substrate](https://substrate.io/) influential founders at one place funded from [Polkadot](https://polkadot.network/)/[Kusama](https://kusama.network/) Treasury
 
 ### Inspiration
 Inspired by [HackBase coming from CCC / Hackerspaces movement](https://wiki.hackerspaces.org/Hackbase) & [CreatorCabins](https://twitter.com/creatorcabins) 
 
-We would like to set affordable living & cover food costs for those who are super willing contribute to Polkadot/Kusama/Substrate ecosystem and to take charge relocate to subHouse and be co-located at strong hive of substrate wisdom and hard working peers
+We would like to set affordable living & cover food costs for those who are super willing contribute to Polkadot/Kusama/Substrate ecosystem and to take charge relocate to subHouse and be co-located at strong hive of substrate wisdom and hard working peers.
 
 ### Running Costs
 
@@ -23,7 +23,6 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - Lisbon, Portugal
 - Bled, Slovenia
 - Dubai, United Arab Emirates
-
 
 ### Reference 
 - [https://1729.com/network-union/]()

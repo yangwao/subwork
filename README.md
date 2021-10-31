@@ -21,8 +21,17 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 
 ### Tentative location
 - Lisbon, Portugal
+  - Your team
 - Bled, Slovenia
+  - [KodaDot](https://twitter.com/kodadot)   
 - Dubai, United Arab Emirates
+  - your team
+
+### Reach out
+- [twitter.com/yangwao](https://twitter.com/yangwao) & [Telegram Yangwao](https://t.me/yangwao)
+
+### Want to join subhouse?
+- Let's open issue or open PR adding your tentative location
 
 ### Reference 
 - [https://1729.com/network-union/]()

@@ -44,4 +44,4 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - [https://www.adssx.com/p/a-brief-history-of-cloud-countries]()
 - [https://wiki.hackerspaces.org/Hackbase]()
 - [https://twitter.com/creatorcabins]()
-- Missing Gavin tweet about burning Polkadot Treasury $10M
+- [Gavin tweet about burning Polkadot Treasury $10M](https://twitter.com/gavofyork/status/1449685017538535426)

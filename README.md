@@ -45,3 +45,7 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - [https://wiki.hackerspaces.org/Hackbase]()
 - [https://twitter.com/creatorcabins]()
 - [Gavin tweet about burning Polkadot Treasury $10M](https://twitter.com/gavofyork/status/1449685017538535426)
+- [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
+- [https://www.existentialhope.com/]()
+- [https://twitter.com/PraxisSociety]() 
+- [https://www.praxissociety.com/]()

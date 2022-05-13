@@ -22,7 +22,7 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 ### Tentative location
 - Lisbon, Portugal
   - Your team
-- Bled, Slovenia
+- Bled, Slovenia -- [subwork.xyz](https://subwork.xyz)
   - [KodaDot](https://twitter.com/kodadot)
   - [MetaPrime.network](https://twitter.com/metaprime_net) -- [Metaprime.network](https://Metaprime.network)   
   - [Working playlist for Bled Subhouse - Philip Glass - Glassworks](https://open.spotify.com/playlist/0egM06rkrN1M5j4SbSYMaO?si=12912b4a6b60430e)
